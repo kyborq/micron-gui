@@ -1,0 +1,11 @@
+.Bubble {
+  display: flex;
+  align-self: baseline;
+  gap: 8px;
+}
+
+.Message {
+  padding: 12px;
+  background-color: #ffffff;
+  border-radius: 4px 12px 12px;
+}

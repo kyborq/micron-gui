@@ -1,0 +1,21 @@
+.Content {
+  flex: 1;
+  background-color: #ffffff;
+  border-radius: 16px;
+  padding: 24px;
+  user-select: none;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.Title {
+  font-size: 15px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.Container {
+  display: flex;
+  flex: 1;
+}
